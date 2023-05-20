@@ -1,5 +1,6 @@
 const chai = require("chai");
 const expect = chai.expect;
+
 const Patron = require("../classes/patron.js");
 
 describe("Patron", () => {

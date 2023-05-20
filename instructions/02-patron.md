@@ -6,7 +6,7 @@ In this exercise, we're going to construct a Patron class representing a library
 
 ## Steps:
 
-1. Start by declaring a class called Patron.
+1. Start by declaring a class in **classes/patron.js** called Patron.
 
 2. Add a constructor method in your class that takes three parameters: id, firstName, and lastName. Assign these parameters to instance variables of the same name.
 

@@ -6,7 +6,7 @@ In this exercise, we're going to create a Library class. Each instance of this c
 
 ## Steps:
 
-1. Declare a class named Library.
+1. In **classes/library.js** declare a class named Library.
 
 2. Create a constructor that accepts name, city, and maxInventory parameters. Assign these to instance variables.
 

@@ -6,7 +6,7 @@ In this exercise, we're going to create a District class. This class will handle
 
 ## Steps:
 
-1. Declare a class named District. This class will not have a constructor.
+1. In **classes/district.js** declare a class named District. This class will not have a constructor.
 
 2. Define a static property named libraries and initialize it as an empty array.
 

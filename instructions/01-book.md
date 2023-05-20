@@ -6,7 +6,7 @@ In this exercise, we will be constructing a Book class. Each instance of this cl
 
 ## Steps:
 
-1. Declare a class called Book.
+1. In **classes/book.js** declare a class called Book.
 
 2. Add a constructor that accepts three parameters: id, title, and author. Assign these to instance variables with the same names.
 
